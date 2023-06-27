@@ -1,3 +1,6 @@
+# dictionary = { :one => "uno", :two => "dos", :three => "tres" }
+# puts dictionary[:two]
+
 dictionary = { :one => "uno", :two => "dos", :three => "tres" }
-# your code goes here
-puts dictionary[:two]
+dictionary = { :four => "cuatro" }
+puts dictionary[:four]

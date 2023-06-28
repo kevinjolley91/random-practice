@@ -7,5 +7,11 @@
 # puts 4 ** 2.0
 # puts 4.1 % 2
 
-x = 4
-puts x.even?
+# x = 4
+# puts x.even?
+
+puts 0.even?
+puts 1.even?
+puts 2.even?
+puts 99.even?
+puts -502.even?
